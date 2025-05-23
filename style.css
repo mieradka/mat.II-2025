@@ -1,1 +1,9 @@
-boldy
+body{
+    background-color: aliceblue;
+}
+header{
+    background-color: aliceblue;
+    font-family: "Jaini Purva, system-ui";
+    font-size: 32px;
+    text-align: center;
+}
